@@ -32,4 +32,10 @@
         "expirydate": "15-06-2029",
         "Allowoffline": false
     },
+    {
+        "device_id": "88418a73598d35f7",
+        "key": "PASS786",
+        "expirydate": "15-06-2029",
+        "Allowoffline": false
+    },
 ]
